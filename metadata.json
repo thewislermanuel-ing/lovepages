@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Historia de Amor · √-1♡U∞",
+  "description": "Página interactiva y romántica dedicada a nuestro amor, con galería de recuerdos, contador de días juntos, cosas favoritas y notas secretas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
